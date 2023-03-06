@@ -1,5 +1,4 @@
-# Instrumentaci-n-Virtual
-Integrantes del equipo:
+# Integrantes del equipo:
 
 - Escudero Díaz Joyce Montserrat
 
